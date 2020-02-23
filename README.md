@@ -2,7 +2,7 @@
 Reading data from Elasticsearch and analysing it in spark cluster with delta tables.
 
 
-###1. Spark setup:
+### 1. Spark setup:
 
 
 Install java:
